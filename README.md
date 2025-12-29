@@ -1,6 +1,3 @@
-# decoder-only-transformer
-Decoder-only Transformer language model with distributed training using PyTorch Lightning
-Overview
 # Decoder-Only Transformer Language Model
 
 ## Overview
