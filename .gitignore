@@ -15,6 +15,3 @@ models/*.pt
 # OS files
 .DS_Store
 Thumbs.db
-git add .gitignore
-git commit -m "Add .gitignore"
-git push
