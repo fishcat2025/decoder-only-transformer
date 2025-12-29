@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Model checkpoints (large files)
+models/*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+git add .gitignore
+git commit -m "Add .gitignore"
+git push
